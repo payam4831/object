@@ -2398,6 +2398,9 @@
 	width: 100%;
 }
 
+.rounded-pill{
+	border-radius: 5rem;
+}
 
 
 /*[ Hover ]
