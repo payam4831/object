@@ -1,3 +1,5 @@
-.w{
-    width: 100% !important;
+@media(min-width:600px){
+    .navar_top{
+        box-shadow: 0 0 50px gray !important; 
+    }
 }
